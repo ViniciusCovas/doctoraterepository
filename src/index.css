@@ -15,10 +15,8 @@ code {
 html, body {
   margin: 0;
   padding: 0;
-  overflow: hidden; /* Evita scroll */
 }
 .container {
   height: 120vh; /* Ajusta la altura de acuerdo a la pantalla */
-  overflow: hidden; /* Evita el scroll en ese contenedor */
 }
 
