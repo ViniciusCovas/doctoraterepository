@@ -18,10 +18,7 @@ html, body {
   overflow: hidden; /* Evita scroll */
 }
 .container {
-  height: 100vh; /* Ajusta la altura de acuerdo a la pantalla */
+  height: 120vh; /* Ajusta la altura de acuerdo a la pantalla */
   overflow: hidden; /* Evita el scroll en ese contenedor */
 }
-.container {
-  height: 120vh; /* Puedes ajustar esta altura según necesites */
-  overflow: hidden;
-}
+
